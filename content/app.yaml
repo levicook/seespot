@@ -1,0 +1,24 @@
+---
+extension: yaml
+layout: nil
+dirty: true
+filter: erb
+---
+application: seespot
+version: 1
+runtime: python
+api_version: 1
+
+handlers:
+<% @pages.find(:all, :filename => 'index', :extension => 'html').reverse.each do |index| %>
+- url: <%= index.url %>/?
+  static_files: <%= index.destination.sub(SITE.output_dir, "")[1..-1] %>
+  upload: <%= index.destination.sub(SITE.output_dir, "")[1..-1] %>
+<% end -%>
+
+- url: /public
+  static_dir: public
+
+- url: /?
+  script: index.py
+
