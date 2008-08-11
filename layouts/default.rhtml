@@ -52,7 +52,7 @@ filter:
               group_by { |a| a.created_at.strftime("%B %Y") }.
               sort_by  { |k, v| v.first.created_at }.reverse.
               each do |mo_year, articles| %>
-              <li><%= mo_year -%>?
+              <li><%= mo_year -%>
               <ul>
                 <% articles.each do |article| %>
                   <li><%= link_to(article.title, article) -%></li>
