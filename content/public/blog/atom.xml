@@ -13,7 +13,7 @@ filter: erb
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><%= h(@page.title) %></title>
   <subtitle><%= h(@page.subtitle) %></subtitle>
-  <link href="http://<%= @page.site %>/atom.xml" rel="self" />
+  <link href="http://<%= @page.site %>/public/blog/atom.xml" rel="self" />
   <link href="http://<%= @page.site %>/" />
   <updated><%= Time.now.xmlschema %></updated>
   <author>
