@@ -12,9 +12,9 @@ h2. Objective
 
 To develop world class software, on a world class team, using modern
 technologies and effective practices. I want to collaborate on
-architecture and design decisions with a team of exceptionally
-talented developers in an non-hierarchical environment. I want to
-work closely with project sponsors and end users.
+architecture and design decisions with a team of talented developers
+in an non-hierarchical environment. I want to work closely with
+project sponsors and end users.
 
 
 h2. Profile
@@ -27,15 +27,32 @@ I'm deeply committed to effective source control, testing and
 deployment practices. My work is heavily influenced by Agile methods,
 Open Source Software and Usability.
 
+
 |_. Languages and Frameworks |_. Version    |_. Skill Level |
-| Ruby                       | 1.8.6 (MRI)  | Expert        |
+| _Ruby_                     | 1.8.6 (MRI)  | Expert        |
 | Ruby/DBI                   | 0.2.0        | Advanced      |
-| Rake                       | 0.8.1        | Expert        |
 | Hpricot                    | 0.6          | Advanced      |
 | Ruport                     | 1.6.1        | Intermediate  |
+| Merb                       | 0.9.x        | Intermediate  |
+| DataMapper                 | 0.9.x        | Intermediate  |
+| _Java_                     | 1.0 -- 1.6   | Expert        |
+| Struts                     | 1.x          | Advanced      |
+| Spring                     | 2.x          | Intermediate  |
+| Hibernate                  | 2.x          | Intermediate  |
+| _C#_                       | 1.0 -- 2.0   | Advanced      |
 | ActiveX Data Objects       | 2.8          | Advanced      |
+| _Python_                   | 1.0 -- 2.5   | Advanced      |
+| Trac                       | 0.10 -- 0.11 | Advanced      |
+| Plone                      | 2.x          | Intermediate  |
+| TurboGears                 | 0.5 -- 0.8   | Intermediate  |
+| Mako                       | 0.2.2        | Intermediate  |
+| Google App Engine          | 1.0 -- 1.1   | Intermediate  |
+| _JavaScript_               | 1.0 -- 1.5   | Advanced      |
+| MochiKit                   | 1.0 -- 1.2   | Advanced      |
+| Dojo                       | 1.2          | Intermediate  |
 |_. Platforms                |_. Version    |_. Skill Level |
 | Informatica PowerCenter    | 7.1.1, 8.5.1 | Advanced      |
+| Microsoft BizTalk Server   | 2004, 2006   | Intermediate  |
 | Microsoft SQL Server       | 2000, 2005   | Advanced      |
 | IBM WebSphere App Server   | 3.5 -- 5.1   | Expert        |
 | IBM WebSphere MQ           | 5.x, 6.x     | Advanced      |
@@ -44,6 +61,19 @@ Open Source Software and Usability.
 | Selenium                   | 0.6 -- 0.8   | Expert        |
 | Watir                      | 1.4 -- 1.5   | Advanced      |
 | RSpec                      | 1.1.4        | Advanced      |
+|_. Build Tools              |_. Version    |_. Skill Level |
+| Ant                        | 1.1 -- 1.7   | Expert        |
+| Rake                       | 0.7 -- 0.8   | Expert        |
+| Hudson                     | 1.1 -- 1.2   | Advanced      |
+| CruiseControl              | 2.x          | Intermediate  |
+| CruiseControl.rb           | 0.4 -- 1.0   | Intermediate  |
+| CruiseControl.NET          | 1.2.x        | Novice        |
+|_. Source Management Tools  |_. Version    |_. Skill Level |
+| Subversion                 | 0.9 -- 1.5   | Expert        |
+| Git                        | 1.5.x        | Novice        |
+| CVS                        | 1.x          | Advanced      |
+| Rational ClearCase UCM     | 2005         | Advanced      |
+
 
 
 
@@ -55,9 +85,16 @@ May 2005 -- Present
 
 * Responsibilities
 ** Pioneer and promote comprehensive software life cycle management practices
+** Plan and provision development, testing and production environments 
+** Performance test planning, execution and remediation
+** Enterprise application development
+** Application development
 *  Accomplishments
-** Designed and implemented a domain specific language (DSL) for testing extract, transform and load processes
-** Designed and implemented source control, build and deployment practices for the Trust's Java, .NET, SQL Server and Informatica practices
+** Designed and implemented a domain specific language (DSL) for
+testing extract, transform and load processes
+** Designed and implemented source control, build and deployment
+practices for the Trust's Java, .NET, SQL Server and Informatica
+practices
 ** Proposed and successfully led an Agile Development pilot
 ** Planned and participated in several base technology upgrades 
 * Positions Held
@@ -73,6 +110,7 @@ October 2003 -- April 2005
 * Positions Held
 ** Senior IT Consultant
 *** Kraft Foods/Oscar Mayer October 2003 -- December 2003
+*** ...
 
 
 h3. Greenbrier & Russel, Madison, WI
@@ -86,6 +124,7 @@ January 2001 -- October 2003
 ** IT Consultant
 *** Kraft Foods/Oscar Mayer January 2001 -- October 2001
 
+
 h3. Pulsity, Chicago, IL
 
 September 2000 -- January 2001
@@ -93,14 +132,20 @@ September 2000 -- January 2001
 * Positions Held
 ** Senior Internet Developer
 
+
 h3. Alliant Energy, Madison, WI
 
 August 1997 -- September 2000
 
 * Positions Held
+** Programmer/Analyst
+** Programmer
+
 
 
 h2. Publication History
 
+
 h2. Speaking Events History
+
 
