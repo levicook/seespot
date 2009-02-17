@@ -1,6 +1,0 @@
-
-Publishing source to github:
-$ git push git@github.com:levicook/seespot.git
-
-Publishing application to appengine:
-$ appcfg.py update appengine/
