@@ -1,0 +1,18 @@
+<html>
+  <head>
+    ${self.head()}
+  </head>
+  <body>
+    <div id="main">
+      ${next.body()}
+    </div>
+    ${self.tail()}
+  </body>
+</html>
+
+<%def name="head()">
+</%def>
+
+<%def name="tail()">
+  <script src="${base_path}/javascripts/jquery.js"></script>
+</%def>

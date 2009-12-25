@@ -1,0 +1,22 @@
+application: seespot
+version: 1
+runtime: python
+api_version: 1
+
+
+handlers:
+
+- url: /images
+  static_dir: assets/images
+
+- url: /javascripts
+  static_dir: assets/javascripts
+
+- url: /stylesheets
+  static_dir: assets/stylesheets
+
+- url: /_wave/.*
+  script: wave.py
+
+- url: /.*
+  script: main.py
